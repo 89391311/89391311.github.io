@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+<script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+    <!-- Site styles -->
+    <style>
+	app-nav {
+    position: fixed; /* 或者 absolute，取决于你的布局需求 */
+    left: 0; /* 将侧边栏移动到右侧 */
+    top: 0;
+    bottom: 0;
+    width: 250px; /* 根据需要调整宽度 */
+    overflow-y: auto;
+}
+	.search{margin:15px;}
+	.input-wrap, input{border: 2px solid #42b983;border-radius: 50px;}
+
+	audio{width:100%;padding:10px;}
+	video{width:100%;padding:10px;}
+	footer{text-align: center;
+    padding:10px;
+    background-size: cover;
+    background-position: center;}
+    </style>
+    <script>
+      // Set html "lang" attribute based on URL
+      (function () {
+        const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
+
+        if (lang) {
+          document.documentElement.setAttribute('lang', lang[1]);
+        }
+      })();
+    </script>
+</head>
+<body>
+<nav>
+    <a href="#/">EN</a>
+    <a href="#/zh-cn/">中文</a>
+  </nav>
+    <div data-app id="app">加载中  </div>
+<script>
+  window.$docsify = {
+// 完整配置参数
+    search: {
+      maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+      paths: [ 'auto'], // or 'auto'
+      placeholder: 'Type to search',
+      // 支持本地化
+      placeholder: {
+        '/zh-cn/': '搜索',
+        '/': 'Type to search'
+      },
+      noData: 'No Results!',
+      // 支持本地化
+      noData: {
+        '/zh-cn/': '找不到结果',
+        '/': 'No Results'
+      },
+      // 搜索标题的最大层级, 1 - 6
+      depth: 6,
+      hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+      // 避免搜索索引冲突
+      // 同一域下的多个网站之间
+      namespace: 'website-1',
+      // 使用不同的索引作为路径前缀（namespaces）
+      // 注意：仅适用于 paths: 'auto' 模式
+      //
+      // 初始化索引时，我们从侧边栏查找第一个路径
+      // 如果它与列表中的前缀匹配，我们将切换到相应的索引
+      pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
+
+      // 您可以提供一个正则表达式来匹配前缀。在这种情况下，
+      // 匹配到的字符串将被用来识别索引
+      pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/
+    },
+  copyCode: {
+    buttonText: {
+      '/zh-cn/': '点击复制',
+      '/': 'Copy Code',
+    },
+    errorText: {
+      '/zh-cn/': '错误',
+      '/': 'Error',
+    },
+    successText: {
+      '/zh-cn/': '复制成功',
+      '/': 'Copy OK',
+    },
+  },
+// 加载 _navbar.md
+  loadNavbar: true,
+autoHeader: true,
+  // 加载 nav.md
+  loadNavbar: 'nav.md',
+
+// 加载 _sidebar.md
+ // loadSidebar: true,
+logo: '//xqtpl.com/bg/300/64/小强模板网',
+name: '小强模板网',
+onlyCover: false,
+auto2top: true,
+homepage: 'README.md',
+coverpage: true,
+coverpage: ['/', '/zh-cn/'],
+routerMode: 'history', // default: 'hash'
+  //basePath: 'https://docsify.js.org/',
+notFoundPage: true,
+  repo: 'docsifyjs/docsify',
+  repo: 'https://github.com/docsifyjs/docsify/',
+  plugins: [
+    function(hook) {
+      var footer = [
+        '<hr/>',
+        '<footer>',
+	'<p class="theme-copyright"><img src="https://beian.mps.gov.cn/img/logo01.dd7ff50e.png" class="el-image__inner" style="object-fit: contain;" width="16px" height="17px"><a href="https://beian.mps.gov.cn/#/query/webSearch?code=11010502056557" rel="noreferrer" target="_blank">京公网安备11010502056557号</a></p>',
+	'<p> 备案号：<a href="https://beian.miit.gov.cn" target="_blank" style="text-align:center;"> 冀ICP备14003537号-12 </a></p>',
+	'<p>Copyright © 2012-2025. All Rights Reserved</p>',
+        '<span><a href="https://xqtpl.com">XqtpL</a> &copy;2025.</span>',
+        '<span>By <a href="https://github.com/docsifyjs/docsify" target="_blank"> xqtpL.com</a>.</span>',
+	'<span>当前版本:</span>', window.Docsify.version,
+        '</footer>'
+      ].join('');
+
+      hook.afterEach(function(html) {
+        return html + footer;
+      });
+    }
+  ]
+  }
+</script>
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
+</body>
+</html>
