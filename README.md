@@ -30,16 +30,16 @@
 	！[ ] （//xqtpl.com/100/39f ）
 
 ##单一图片占位符
-````````
+``````````''
 //xqtpl.com/300x300
 
 //xqtpl.com/bg/300/300 （动态颜色）
 
 防止同一页面图片重复可加rand参数//xqtpl.com/bg/300/300/?rand=随机数
-````````
+``````````''
 演示图片
 
-[ ！[ 64x64 ] http://xqtpl.com/64x64）]（http://xqtpl.com/64x64 ”！[ 64x64 ] （（ http://xqtpl.com/64x64/49f）（）[）[！“！[64x64]（http://xqtpl.com/64x64/7bf ））​​​​ ​http://xqtpl.com/64x64/bdf（bdf（Bdf（Bdf（Bdf（Bdf ））​​​​​ （ http://xqtpl.com/64x64/ecf5ff）（）[！http：//xqtpl.com/64x64/67c23a“64x64 ]（http://xqtpl.com/64x64/67c23a）（）[！[ 64x64 ] ]（ ）[！http：//xqtpl.com/64x64/f56c6c“！[ 64x64 ]（http://xqtpl.com/64x64/f56c6c a（（））（http://xqtpl.com/64x64/090）（）[！http://xqtpl.com/bg/64/64/ 64 /动态？ 
+[！[ 64x64 ] http://xqtpl.com/64x64 （64x64（（64x64）（（[ 64x64 ] （（（http://xqtpl.com/64x64/7bf）（http://xqtpl.com/64x64/64x64/bdf（bdf（bdf（bdf（bdf（bdf（bdf（bdf（Bdf）（http://xqtplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplpl.com/644/ec/ecf5ff-f5ff i ）！http：//xqtpl.com/64x64/67c23a“ 64x64 ]（http://xqtpl.com/64x64/67c23a（）（64x64 ]）64x64 ]（http://xqtpl.com/64x64/f56c6c a a（））（
 
 * * *
 
@@ -49,32 +49,32 @@
 //xqtpl.com/300x300/?text=demo
 
 //xqtpl.com/bg/300/300/hello world（Hello World）
-``''''''
+``''''
 演示图片
 
-[！[64x64] http://xqtpl.com/64x64/?text = demo（演示）] （64x64]（http://xqtpl.com/64x64/bdf?text = demo） （64x64]（http://xqtpl.com/64x64/67c23a？text = （演示）]（ http://xqtpl.com/64x64/f56c?text = demo（64x64]]   
+[！[64x64] http://xqtpl.com/64x64/?text = demo （演示）] （64x64]（http://xqtpl.com/64x64/bdf?text = demo） （= （演示）]（http://xqtpl.com/64x64/f56c?text = demo（64x64]]]   
 
 * * *
 
 ##带颜色参数
 
 ####/宽度/宽度/宽度x高度/颜色
-``''''
+``'''
 //xqtpl.com/300x300/f60 **注：**文字只支持英文字符
-``''''
-！[100x100]（http://xqtpl.com/100x100/f60）！[100x100]（http://xqtpl.com/100x100/100x100/100x100/100x100/100x100/100x100 /100x100/100x100/100x100x100x100/100x100/100x100/100x100/100x100/100x100x100/72cffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff560   
+``'''
+！[100x100]（http://xqtpl.com/100x100/f60）！[100x100]（http://xqtpl.com/100x100/100x100/100x100/100x100/100x100/100x100/100x100x100x100/100x100/100x100/100/100x100 /100x100/100x100/100x100x100x100/100x100/100x100/100x100/100x100/100x100x100/72cffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff560   
 
 ####方法方法。/宽度xx/？颜色 =颜色=
-``''''
+``'''
 左图
 //xqtpl.com/500x100/?color=f60
 右图
 http://xqtpl.com/550x100/?color=2af-eee&text = xqtpl.com
-``''''
+``'''
 ！[占位符]（http://xqtpl.com/550x100/?color=f60-2AF）
 
-####/宽度/高度/高度/高度/你的文字（这是一个动态的背景/你的文字（这是一个动态的背景
-``''''
+####/宽度/高度/高度/高度/你的文字（这是一个动态的背景/你的文字（这是一个动态的背景/你的文字（这是一个动态的背景
+``'''
 //xqtpl.com/bg/1200/300/你好，世界，世界
 ``'''
 
@@ -88,39 +88,40 @@ http://xqtpl.com/550x100/?color=2af-eee&text = xqtpl.com
   
     //xqtpl.com/300x300/92f-f60
 |颜色| 3 |使用|
-| --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 颜色表示＃33cc00 | 为＃3CO | ＃3399ff ＃＃39f````
 
-！[占位符]（// xqtpl.com/275x180/?color=f60-1ef）（）！地持有人 // xqtpl.com/275x180/?color = 3c0-39f 675x180/
+！[占位符]（// xqtpl.com/275x180/?color=f60-1ef（（（）（// xqtpl.com/275x180/?color = 3c0-39f 675x180/
 
 * * *
 
 
 
-＃嵌入的类型
+# 嵌入的类型
 
-当前，嵌入的类型是通过文件后缀自动识别的
+当前，嵌入的类型是通过文件后缀自动识别的，这是目前支持的类型：
 
-* ** iframe ** .html``.htm''
-*** Markdown **。
-***音频** .mp3
+* **iframe** `.html`, `.htm`
+* **markdown** `.markdown`, `.md`
+* **audio** `.mp3`
+* **video** `.mp4`, `.ogg`
+* **code** other file extension
 
-***代码**其他文件扩展名
+当然，你也可以强制设置嵌入类型。例如你想将 Markdown 文件当作一个 `code block` 嵌入。
 
-sarkdown，``````````````````````````''''''''
-
-````````'''
-[文件名]
-``'''
+```markdown
+[filename](../_media/code.md ':include :type=code')
+```
 
 你会看到：
 
-[文件名（
+[filename](../_media/demo.md ':include :type=code')
 
-##高胜美-追梦人
+## 高胜美-追梦人
 
-[文件名]
+[filename](../_media/高胜美-追梦人.mp3 ':include :type=mp3')
 
-[文件名]（..////////_媒体/demo.mp4'：clipage：type = mp3'）
+[filename](../_media/demo.mp4 ':include :type=mp3')
+
 
 
