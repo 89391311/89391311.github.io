@@ -1,97 +1,97 @@
 
-＃访问方法| 默认端口80支持https
+# 访问方法 | 默认端口80支持https
 * * *
 
-[ http://xqtpl.com/512/?color=3c0-39f]（http://xqtpl.com/512/?color=3c0-39f ）​​​
+[http://xqtpl.com/512/?color=3C0-39F](http://xqtpl.com/512/?color=3C0-39F)
 
 * * *
 
 
- [ ！[ IMG ] （http://xqtpl.com/512x100/?color=3c0-39f ）]​​​​ ！[ img ] （http://xqtpl.com/512x100/?color=39f-3c0＆text = xqtpl.com ）] （http://xqtpl.com/512x100/ ？ “！[img]（http://xqtpl.com/512x100/?color=39f-3c0＆text = xqtpl.com）” ）  
+ [![img](http://xqtpl.com/512x100/?color=3C0-39F)](http://xqtpl.com/512x100/?color=3C0-39F "![img](http://xqtpl.com/512x100/?color=3C0-39F)")[![img](http://xqtpl.com/512x100/?color=39F-3C0&text=xqtpl.com)](http://xqtpl.com/512x100/?color=39F-3C0&text=xqtpl.com "![img](http://xqtpl.com/512x100/?color=39F-3C0&text=xqtpl.com)")
 
 
 
-##颜色使用颜色使用16进制颜色代码
+## 颜色使用16进制颜色代码
 
-###颜色表示
+### 颜色表示
 
 
-|颜色| 3 |使用  |
-| -------------- | -------------- | -------------- |
-|＃33cc00   |为＃3co   |使用url/100/3c0
-|颜色    | 3 |使用/分辨率/颜色
-|＃33cc00   |为＃3co   |使用url/100/3c0
-| 	| 	| 	[ //xqtpl.com/100/3c0]（//xqtpl.com/100/3c0 ）​​​
-|＃3399ff |为＃39f |使用url/100/39f
-| 	| 	| 	[ //xqtpl.com/100/39f]（//xqtpl.com/100/39f ）​​​
+| 颜色| 3位色值| 使用  |
+| ------------ | ------------ | ------------ |
+|#33CC00  | 为 #3CO  | 使用 URL/100/3c0
+| 颜色    | 3位色值 | 使用 网址/分辨率/颜色
+|#33CC00  | 为 #3CO  | 使用 URL/100/3c0
+|	|	|	[ //xqtpl.com/100/3c0 ](//xqtpl.com/100/3c0)
+|#3399FF |为 #39F | 使用 URL/100/39f
+|	|	|	[ //xqtpl.com/100/39f ](//xqtpl.com/100/39f)
 
 演示图片
-	！[ ] （//xqtpl.com/100/3c0 ）
-	！[ ] （//xqtpl.com/100/39f ）
+	![](//xqtpl.com/100/3c0)
+	![](//xqtpl.com/100/39f)
 
-##单一图片占位符
-``````````''
+## 单一图片占位符
+```
 //xqtpl.com/300x300
 
-//xqtpl.com/bg/300/300 （动态颜色）
+//xqtpl.com/bg/300/300  （动态颜色）
 
 防止同一页面图片重复可加rand参数//xqtpl.com/bg/300/300/?rand=随机数
-``````````''
+```
 演示图片
 
-[！[ 64x64 ] http://xqtpl.com/64x64 （64x64（（64x64）（（[ 64x64 ] （（（http://xqtpl.com/64x64/7bf）（http://xqtpl.com/64x64/64x64/bdf（bdf（bdf（bdf（bdf（bdf（bdf（bdf（Bdf）（http://xqtplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplplpl.com/644/ec/ecf5ff-f5ff i ）！http：//xqtpl.com/64x64/67c23a“ 64x64 ]（http://xqtpl.com/64x64/67c23a（）（64x64 ]）64x64 ]（http://xqtpl.com/64x64/f56c6c a a（））（
+[![64x64](http://xqtpl.com/64x64)](http://xqtpl.com/64x64 "![64x64](http://xqtpl.com/64x64)")[![64x64](http://xqtpl.com/64x64/49F)](http://xqtpl.com/64x64/49F "![64x64](http://xqtpl.com/64x64/49F)")[![64x64](http://xqtpl.com/64x64/7BF)](http://xqtpl.com/64x64/7BF "![64x64](http://xqtpl.com/64x64/7BF)")[![64x64](http://xqtpl.com/64x64/BDF)](http://xqtpl.com/64x64/BDF "![64x64](http://xqtpl.com/64x64/BDF)")[![64x64](http://xqtpl.com/64x64/ECF5Ff)](http://xqtpl.com/64x64/ECF5Ff "![64x64](http://xqtpl.com/64x64/ECF5Ff)")[![64x64](http://xqtpl.com/64x64/67C23a)](http://xqtpl.com/64x64/67C23a "![64x64](http://xqtpl.com/64x64/67C23a)")[![64x64](http://xqtpl.com/64x64/E6A23c)](http://xqtpl.com/64x64/E6A23c "![64x64](http://xqtpl.com/64x64/E6A23c)")[![64x64](http://xqtpl.com/64x64/F56C6C)](http://xqtpl.com/64x64/F56C6C "![64x64](http://xqtpl.com/64x64/F56C6C)")[![64x64](http://xqtpl.com/64x64/090)](http://xqtpl.com/64x64/090 "![64x64](http://xqtpl.com/64x64/090)")[![动态颜色占位符](http://xqtpl.com/bg/64/64/动态?read=1)](http://xqtpl.com/bg/64/64/动态?read=1 "![动态颜色占位符](http://xqtpl.com/bg/64/64/动态?read=1)")
 
 * * *
 
-##带文字的占位符
-```````` '''
+## 带文字的占位符
+```markdown
 
 //xqtpl.com/300x300/?text=demo
 
-//xqtpl.com/bg/300/300/hello world（Hello World）
-``''''
+//xqtpl.com/bg/300/300/Hello world （带文字动态颜色）
+```
 演示图片
 
-[！[64x64] http://xqtpl.com/64x64/?text = demo （演示）] （64x64]（http://xqtpl.com/64x64/bdf?text = demo） （= （演示）]（http://xqtpl.com/64x64/f56c?text = demo（64x64]]]   
+[ ![64x64](http://xqtpl.com/64x64/?text=demo)](http://xqtpl.com/64x64/?text=demo " ![64x64](http://xqtpl.com/64x64/?text=demo)")[ ![64x64](http://xqtpl.com/64x64/49F)](http://xqtpl.com/64x64/49F " ![64x64](http://xqtpl.com/64x64/49F)")[ ![64x64](http://xqtpl.com/64x64/7BF/?text=demo)](http://xqtpl.com/64x64/7BF/?text=demo " ![64x64](http://xqtpl.com/64x64/7BF/?text=demo)")[ ![64x64](http://xqtpl.com/64x64/BDF?text=demo)](http://xqtpl.com/64x64/BDF?text=demo " ![64x64](http://xqtpl.com/64x64/BDF?text=demo)")[ ![64x64](http://xqtpl.com/64x64/ECF5Ff?text=demo)](http://xqtpl.com/64x64/ECF5Ff?text=demo " ![64x64](http://xqtpl.com/64x64/ECF5Ff?text=demo)")[ ![64x64](http://xqtpl.com/64x64/67C23a?text=demo)](http://xqtpl.com/64x64/67C23a?text=demo " ![64x64](http://xqtpl.com/64x64/67C23a?text=demo)")[ ![64x64](http://xqtpl.com/64x64/E6A23c?text=demo)](http://xqtpl.com/64x64/E6A23c?text=demo " ![64x64](http://xqtpl.com/64x64/E6A23c?text=demo)")[ ![64x64](http://xqtpl.com/64x64/F56C6C?text=demo)](http://xqtpl.com/64x64/F56C6C?text=demo " ![64x64](http://xqtpl.com/64x64/F56C6C?text=demo)")[ ![64x64](http://xqtpl.com/64x64/090?text=demo)](http://xqtpl.com/64x64/090?text=demo " ![64x64](http://xqtpl.com/64x64/090?text=demo)")[ ![动态带文字占位符](http://xqtpl.com/bg/64/64/动态)](http://xqtpl.com/bg/64/64/动态 " ![动态带文字占位符](http://xqtpl.com/bg/64/64/动态)")
 
 * * *
 
-##带颜色参数
+## 带颜色参数
 
-####/宽度/宽度/宽度x高度/颜色
-``'''
-//xqtpl.com/300x300/f60 **注：**文字只支持英文字符
-``'''
-！[100x100]（http://xqtpl.com/100x100/f60）！[100x100]（http://xqtpl.com/100x100/100x100/100x100/100x100/100x100/100x100/100x100x100x100/100x100/100x100/100/100x100 /100x100/100x100/100x100x100x100/100x100/100x100/100x100/100x100/100x100x100/72cffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff560   
+#### 方法1. 域名/宽度x高度/颜色
+```
+//xqtpl.com/300x300/f60   **注：**文字只支持英文字符
+```
+ ![100x100](http://xqtpl.com/100x100/f60) ![100x100](http://xqtpl.com/100x100/72cf60?text=en-font) ![100x100](http://xqtpl.com/100x100/8c1?text=发财) ![100x100](http://xqtpl.com/100x100/8c1?text=xqtpl.com) ![xqtpl.com](http://xqtpl.com/850x100/8c1?text=https://xqtpl.com/850x100/8c1?text=xqtpl.com)
 
-####方法方法。/宽度xx/？颜色 =颜色=
-``'''
+#### 方法2. 域名/宽度x高度/?color=颜色
+```
 左图
 //xqtpl.com/500x100/?color=f60
 右图
-http://xqtpl.com/550x100/?color=2af-eee&text = xqtpl.com
-``'''
-！[占位符]（http://xqtpl.com/550x100/?color=f60-2AF）
+http://xqtpl.com/550x100/?color=2af-eee&text=xqtpl.com
+```
+![占位符](http://xqtpl.com/550x100/?color=f60-2af)          ![占位符](http://xqtpl.com/550x100/?color=2af-eee&amp;text=xqtpl.com)
 
-####/宽度/高度/高度/高度/你的文字（这是一个动态的背景/你的文字（这是一个动态的背景/你的文字（这是一个动态的背景
-``'''
-//xqtpl.com/bg/1200/300/你好，世界，世界
-``'''
+#### 方法3. 域名/宽度/高度/你的文字（这是一个动态的背景,每次刷新会变。）
+```
+//xqtpl.com/bg/1200/300/你好,世界
+```
 
-！[你好你好
+![你好,世界](http://xqtpl.com/bg/1200/100/你好,世界)
 
 * * *
 
-##带颜色渐变参数
+## 带颜色渐变参数
 
-####/宽度/宽度/宽度x高度/渐变颜色
+#### 方法1. 域名/宽度x高度/渐变颜色
   
     //xqtpl.com/300x300/92f-f60
-|颜色| 3 |使用|
-| -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-| 颜色表示＃33cc00 | 为＃3CO | ＃3399ff ＃＃39f````
+| 颜色| 3位色值| 使用  |
+| ------------ | ------------ | ------------ |
+| 颜色表示#33CC00 |   为#3CO  | #3399FF 为#39f```
 
-！[占位符]（// xqtpl.com/275x180/?color=f60-1ef（（（）（// xqtpl.com/275x180/?color = 3c0-39f 675x180/
+![Placeholder](//xqtpl.com/275x180/?color=f60-1ef)![Placeholder](//xqtpl.com/275x180/?color=3c0-39f)![Placeholder](//xqtpl.com/275x180/?color=67C23a-F56C6C&amp;text=xqtpl.com)![Placeholder](//xqtpl.com/275x180/?color=1fd9f0-eee&amp;text=xqtpl.com)
 
 * * *
 
@@ -122,6 +122,4 @@ http://xqtpl.com/550x100/?color=2af-eee&text = xqtpl.com
 [filename](../_media/高胜美-追梦人.mp3 ':include :type=mp3')
 
 [filename](../_media/demo.mp4 ':include :type=mp3')
-
-
 
